@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp", "CSharp\CSharp.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentDiary", "StudentDiary\StudentDiary.csproj", "{5F6A985E-CAF8-4C65-A0F9-C33F971F7022}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{95100CA8-36ED-4B61-9798-15A48271C805}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5F6A985E-CAF8-4C65-A0F9-C33F971F7022}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F6A985E-CAF8-4C65-A0F9-C33F971F7022}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F6A985E-CAF8-4C65-A0F9-C33F971F7022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95100CA8-36ED-4B61-9798-15A48271C805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95100CA8-36ED-4B61-9798-15A48271C805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95100CA8-36ED-4B61-9798-15A48271C805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95100CA8-36ED-4B61-9798-15A48271C805}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

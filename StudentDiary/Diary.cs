@@ -8,6 +8,11 @@ namespace StudentDiary
 {
     class Diary
     {
+        public Diary() //constructor
+        {
+            ratings = new List<float>();    //initialization
+        }
+
         //class content
         List<float> ratings = new List<float>(); //initialization
 
